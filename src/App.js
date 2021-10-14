@@ -1,5 +1,5 @@
 import { Grid, makeStyles } from "@material-ui/core";
-import Calc from "./containers/calc/Calc";
+import Calc from "./calc/Calc";
 
 const App = () => {
   const { calcWrapper } = useStyles();
